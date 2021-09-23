@@ -1,3 +1,9 @@
+# JSX
+
+JSX is a React based web application that is about the basics of react creates an input and a button that will give you an announcement. The technologies and practices used consist of: HTML5, JSX, CSS3, JavaScript, React/React.js.
+
+[Live Demo](https://h-khan-14.github.io/JSX/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
